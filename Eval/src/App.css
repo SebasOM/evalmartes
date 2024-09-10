@@ -1,0 +1,77 @@
+#root {
+  width: 100%;
+  margin-bottom: auto;
+  margin-left: auto;
+  text-align: center;
+}
+.logo{
+  position: absolute;
+}
+
+.navb{
+  max-width: 1280px;
+  margin-bottom: auto;
+  margin-left: 86rem;
+  position: relative;
+}
+
+body{
+  background-image: url(assets/fondoAzul.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.carou{
+  margin-left: 50%;
+  margin-top: 15rem;
+  position: absolute;
+  width: 55rem;
+}
+
+.texto{
+  margin-top: 5rem;
+  margin-left: 10rem;
+  font-size: 80px;
+  color: white;
+  position: absolute;
+}
+
+.texto3{
+  margin-top: 10rem;
+  margin-left: 15rem;
+  font-size: 130px;
+  font-weight: bold;
+  color: white;
+  position: absolute;
+}
+
+.texto2{
+  position: absolute;
+  margin-top: 25rem;
+  margin-left: 15rem;
+  font-size: 25px;
+  width: 42rem;
+  color: white;
+}
+
+.boton1{
+  margin-top: 42rem;
+  margin-left: 25rem;
+  
+  position: absolute;
+}
+.boton1 .b1{
+  font-size: 2rem;
+}
+
+.boton2{
+  position: absolute;
+  margin-top: 42rem;
+  margin-left: 40rem;
+  
+}
+.boton2 .b2{
+  font-size: 2rem;
+}
+
+
